@@ -12,6 +12,13 @@
 - **Abstracted Resource Layer**: Centralized `resourceMap` that decouples UI components from specific API structures.
 - **Schema Validation**: Built-in utility to verify that LLM-generated field paths exist within the actual API schema.
 
+## Demo Image
+
+<p align="center">
+  <img src="./assets/demo.png" width="800"/>
+</p>
+
+
 ## Tech Stack
 
 | Type | Technologies |
