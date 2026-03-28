@@ -2,17 +2,7 @@
 
 ## Description
 
-**MVP-MGnify** is a Proof of Concept (PoC) demonstrating an LLM-driven UI generator for the [MGnify](https://www.ebi.ac.uk/metagenomics/) metagenomics platform. It bridges the gap between raw scientific API data and human-friendly table interfaces by leveraging Large Language Models to interpret API schemas and dynamically generate UI configurations.
-
-## Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [How to use](#-how-to-use)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
+**MVP-MGnify** is a Proof of Concept (PoC) demonstrating an LLM-driven UI generator for the MGnify metagenomics platform. It bridges the gap between raw scientific API data and human-friendly table interfaces by leveraging Large Language Models to interpret API schemas and dynamically generate UI configurations.
 
 ## Features
 
